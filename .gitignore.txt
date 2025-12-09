@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.env
+env/
+sparkenv/
+data/raw/
+data/processed/
